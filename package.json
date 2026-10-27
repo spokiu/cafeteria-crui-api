@@ -1,0 +1,13 @@
+{
+  "name": "cafeteria-crui-api",
+  "version": "1.0.0",
+  "description": "Mini API para administrar el menu de la Cafeteria del CRUI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
